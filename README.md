@@ -12,3 +12,4 @@ Rules:
  
  => The player has to reproduce this chain of light using their memory.
  
+![SIMON](https://github.com/JEERUNITHINREDDY/SIMON-GAME/assets/120825825/5f4e3c78-48bf-4db0-a9f9-587240d817f3)
